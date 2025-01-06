@@ -9,5 +9,4 @@
 </p>
 <h2 align="left">🔗 Connect with Me</h2>
 <p align="left">
-  <a href="linkedin.com/in/vu-do-909016295" /></a>
-</p>
+ <a href="linkedin.com/in/vu-do-909016295"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a></p>
